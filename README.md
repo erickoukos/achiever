@@ -8,3 +8,6 @@ Write files -> Commit Changes -> Pull Requests
 
 ### From Local Machine
 Write files(code, text files) -> Stage Changes(git status, git add .) -> Commit Changes(git commit -m "") -> Making Pull Requests
+
+## Git Branching
+Master is the main branch
